@@ -4,7 +4,9 @@ public class Main {
     }
 
     public static void printHello() {
-        System.out.println("Hello, ");
+        System.out.println();
+        String s = "Hello, ";
+        System.out.println(s);
     }
 
     public static void printWorld() {
